@@ -30,7 +30,7 @@
 ## Konten Praktikum:
 
 > [!TIP]
-> Install tools berikut sebelum praktikum: [`Panduan Instalasi`](https://github.com/kcv-if/Modul-PD/blob/main/Materi/0%20-%20Panduan%20Instalasi.pdf)
+> Install tools berikut sebelum praktikum: [`Panduan Instalasi`](https://github.com/kcv-if/Modul-PD/blob/master/Materi/0%20-%20Panduan%20Instalasi.pdf)
 >
 > - Python, NumPy, Matplotlib, Pandas, Scikit-Learn, and SciPy
 > - Google Colab
@@ -38,12 +38,12 @@
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
 
-- [Panduan Praktikum Eksplorasi Data](https://github.com/kcv-if/Modul-PD/blob/main/Materi/1%20-%20Panduan%20Praktikum%20Eksplorasi%20Data.pdf)
-- [Latihan Eksplorasi Data](https://github.com/kcv-if/Modul-PD/blob/main/Materi/1%20-%20Eksplorasi%20Data.ipynb)
-- [Tugas Eksplorasi Data :mortar_board:](https://github.com/kcv-if/Modul-PD/blob/main/Materi/1%20-%20Tugas_Praktikum_Eksplorasi_Data.pdf)
+- [Panduan Praktikum Eksplorasi Data](https://github.com/kcv-if/Modul-PD/blob/master/Materi/1%20-%20Panduan%20Praktikum%20Eksplorasi%20Data.pdf)
+- [Latihan Eksplorasi Data](https://github.com/kcv-if/Modul-PD/blob/master/Materi/1%20-%20Eksplorasi%20Data.ipynb)
+- [Tugas Eksplorasi Data :mortar_board:](https://github.com/kcv-if/Modul-PD/blob/master/Materi/1%20-%20Tugas_Praktikum_Eksplorasi_Data.pdf)
 
 ### 2. Praproses Data <sub><sup>[_minggu #3 - #4_]</sup></sub> <br />
 
-- [Panduan Praktikum Praproses Data](https://github.com/kcv-if/Modul-PD/blob/main/Materi/2%20-%20Panduan%20Praktikum%20Praproses%20Data.pdf)
-- [Latihan Praproses Data](https://github.com/kcv-if/Modul-PD/blob/main/Materi/2%20-%20Praproses%20Data.ipynb)
-- [Tugas Praproses Data :mortar_board:](https://github.com/kcv-if/Modul-PD/blob/main/Materi/2%20-%20Tugas_Praktikum_Praproses_Data.pdf)
+- [Panduan Praktikum Praproses Data](https://github.com/kcv-if/Modul-PD/blob/master/Materi/2%20-%20Panduan%20Praktikum%20Praproses%20Data.pdf)
+- [Latihan Praproses Data](https://github.com/kcv-if/Modul-PD/blob/master/Materi/2%20-%20Praproses%20Data.ipynb)
+- [Tugas Praproses Data :mortar_board:](https://github.com/kcv-if/Modul-PD/blob/master/Materi/2%20-%20Tugas_Praktikum_Praproses_Data.pdf)
